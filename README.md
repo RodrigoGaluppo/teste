@@ -5,3 +5,7 @@ github TEST
 wotk work work
 
 cool
+bardzo dobrze
+
+nie dobrze
+
